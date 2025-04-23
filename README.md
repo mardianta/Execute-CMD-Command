@@ -7,7 +7,7 @@
     ?>
 ```
 
-2. cmd
+2. Execute CMD Command
    ```
            <!DOCTYPE html>
         <html lang="en">
@@ -37,4 +37,4 @@
             echo "<pre>$output</pre>";
         }
         ?>
-```
+   ```
