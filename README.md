@@ -1,4 +1,4 @@
-# simple-command-php
+# Execute CMD Command
 1. Menampilkan informasi PHP
     ```
         <?php
