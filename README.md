@@ -1,4 +1,4 @@
-# simple-command-backend
+# simple-command-php
 1. Menampilkan informasi PHP
     ```
         <?php
