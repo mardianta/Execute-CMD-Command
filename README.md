@@ -39,6 +39,10 @@
         ?>
    ```
 
+   ```
+       sudo tar -czvf /var/www/html/... .tar.gz -C /var/www/html Folder
+   ```
+
 3. File Manager
     ```
         <?php
